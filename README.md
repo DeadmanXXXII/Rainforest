@@ -214,6 +214,12 @@ if __name__ == "__main__":
     print("[DEBUG] Scan process completed.")
 ```
 
+## v2
+As you can see I'm working through the bugs on this.
+However, KubeCloudV2 was successful was fully developed on all platforms.
+I have no doubt this will be too.
 
+Many Thanks,
+DeadmanXXXII
 
 
