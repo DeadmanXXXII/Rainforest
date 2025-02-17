@@ -215,8 +215,9 @@ if __name__ == "__main__":
 ```
 
 ## v2
+[IDE!]
+(https://raw.githubusercontent.com/DeadmanXXXII/Rainforest/main/PXL_20250217_101850508.jpg)
 
-(https://raw.githubusercontent.com/DeadmanXXXII/Rainforest/main/)
 As you can see I'm working through the bugs on this.
 However, KubeCloudV2 was successful was fully developed on all platforms.
 I have no doubt this will be too.
